@@ -1,10 +1,10 @@
 # Meg South's Portfolio
 
-Welcome to my portfio showcasing python code that I have written during my time as an undergraduate student. The examples of code below was extracted from assignments and projects that have been completed as part of coursework. 
+Welcome to my portfio showcasing python code that I have written during my time as a student. The examples of code below were extracted from assignments and projects that have been completed as part of undergraduate coursework. 
 
-**BoxPlots**
+**Box Plots**
 
-Here is an example of [code that I wrote to create a series of boxplots](boxplot.md). This was code that was written as part of an assignment.
+Here is an example of [code that I wrote to create a series of boxplots](boxplot.md) showing reaction time in a dataframe. This was code that was written as part of an assignment.
 
 **For Loop & Conversion**
 
@@ -18,14 +18,13 @@ Here is an example of [code that I wrote to find the first women to win a nobel 
 
 Here is an example of [code that I wrote to figure out the ages of Nobel Prize winners at the time of receiving the award](age_nobel_winners.md). The ages were then used to create a scatterplot with a trendline using Seaborn. This was part of a task in a project called "A Visual History of Nobel Prize Winners" found on DataCamp.
 
-**Tidy Data by Dropping Column**
+**Tidy Data by Dropping Columns**
 
 Here is an example of [code that I wrote to drop columns out of a dataframe](drop_columns.md) so that only relevant information was left behind. This was part of a task in a project called "The Hottest Topics in Machine Learning" found on DataCamp.
 
 **Creating a Wordcloud**
 
-Here is an example of [code that I wrote to create a wordcloud](wordcloud.md). This word cloud represents commonly found words in titles of research papers that were created during the NIPS (Neural Information Processing Systems) conference from 1987-2017. This was part of a task in a project called "The Hottest Topics in Machine Learning" found on DataCamp.
-
+Here is an example of [code that I wrote to create a wordcloud](wordcloud.md). This word cloud represents commonly found words in titles of research papers that were created during the NIPS (Neural Information Processing Systems) conferences from 1987-2017. This was part of a task in a project called "The Hottest Topics in Machine Learning" found on DataCamp.
 
 
 Questions? Email me:
