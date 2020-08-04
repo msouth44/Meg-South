@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+# Meg South's Portfolio
 
-You can use the [editor on GitHub](https://github.com/msouth44/Portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Welcome to my portfolio showcasing python code that I have written during my time as a student. The examples of code below were extracted from assignments and projects that have been completed as part of undergraduate coursework. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Box Plots**
 
-### Markdown
+Here is an example of [code that I wrote to create a series of boxplots](boxplot.md) showing reaction time in a dataframe. This was code that was written as part of an assignment.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**For Loops & Conversions**
 
-```markdown
-Syntax highlighted code block
+Here is an example of [code that I wrote to create a for loop that would convert reaction time to milliseconds](rt_for_loop.md). This was code that was written as part of an assignment.
 
-# Header 1
-## Header 2
-### Header 3
+**Picking out Specific Data**
 
-- Bulleted
-- List
+Here is an example of [code that I wrote to find the first women to win a Nobel Prize](first_woman_nobel.md) within a dataframe containing the winners from 1901-2016. Fun fact, turns out it was Marie Curie in 1903 for the Nobel Prize in Physics. This was part of a task in a project called "A Visual History of Nobel Prize Winners" found on DataCamp.
 
-1. Numbered
-2. List
+**Calculations & Scatterplots with Seaborn**
 
-**Bold** and _Italic_ and `Code` text
+Here is an example of [code that I wrote to figure out the ages of Nobel Prize winners at the time of receiving the award](age_nobel_winners.md). The ages were then used to create a scatterplot with a trendline using Seaborn. This was part of a task in a project called "A Visual History of Nobel Prize Winners" found on DataCamp.
 
-[Link](url) and ![Image](src)
-```
+**Tidy Data by Dropping Columns**
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Here is an example of [code that I wrote to drop columns out of a dataframe](drop_columns.md) so that only relevant information was left behind. This was part of a task in a project called "The Hottest Topics in Machine Learning" found on DataCamp.
 
-### Jekyll Themes
+**Creating a Wordcloud**
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/msouth44/Portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Here is an example of [code that I wrote to create a wordcloud](wordcloud.md). This word cloud represents commonly found words in titles of research papers that were created during the NIPS (Neural Information Processing Systems) conferences from 1987-2017. This was part of a task in a project called "The Hottest Topics in Machine Learning" found on DataCamp.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Questions? Email me:
+[mg668344@dal.ca](mailto:mg668344@dal.ca)
