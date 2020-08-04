@@ -6,15 +6,15 @@ Welcome to my portfio showcasing python code that I have written during my time 
 
 Here is an example of [code that I wrote to create a series of boxplots](boxplot.md) showing reaction time in a dataframe. This was code that was written as part of an assignment.
 
-**For Loop & Conversion**
+**For Loops & Conversions**
 
 Here is an example of [code that I wrote to create a for loop that would convert reaction time to milliseconds](rt_for_loop.md). This was code that was written as part of an assignment.
 
-**Pick out Specific Data**
+**Picking out Specific Data**
 
 Here is an example of [code that I wrote to find the first women to win a nobel prize](first_woman_nobel.md) within a dataframe containing the winners from 1901-2016. Fun fact, turns out it was Marie Curie in 1903 for the Nobel Prize in Physics. This was part of a task in a project called "A Visual History of Nobel Prize Winners" found on DataCamp.
 
-**Calculations & Scatterplot with Seaborn**
+**Calculations & Scatterplots with Seaborn**
 
 Here is an example of [code that I wrote to figure out the ages of Nobel Prize winners at the time of receiving the award](age_nobel_winners.md). The ages were then used to create a scatterplot with a trendline using Seaborn. This was part of a task in a project called "A Visual History of Nobel Prize Winners" found on DataCamp.
 
