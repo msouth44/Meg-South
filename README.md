@@ -1,5 +1,5 @@
 # Meg South's Portfolio
-**My professional python coding portfolio
+** My professional python coding portfolio **
 
 Here is an example of [code that I wrote to create a series of boxplots](boxplot.md). This was code that was written as part of an assignment.
 
