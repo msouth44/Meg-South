@@ -9,7 +9,7 @@ Here is an example of [code that I wrote to create a for loop that would convert
 
 **Pick out Specific Data**
 
-Here is an example of [code that I wrote to find the first women to win a nobel prize](first_woman_nobel.md) within a dataframe containing the winners from 1901-2016. Fun fact, it was Marie Curie in 1903 for the Nobel Prize in Physics. This was part of a task in a project called "A Visual History of Nobel Prize Winners" found on DataCamp.
+Here is an example of [code that I wrote to find the first women to win a nobel prize](first_woman_nobel.md) within a dataframe containing the winners from 1901-2016. Fun fact, turns out it was Marie Curie in 1903 for the Nobel Prize in Physics. This was part of a task in a project called "A Visual History of Nobel Prize Winners" found on DataCamp.
 
 **Calculations & Scatterplot with Seaborn**
 
