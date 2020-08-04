@@ -1,6 +1,6 @@
 # Meg South's Portfolio
 
-Welcome to my portfio showcasing python code that I have written during my time as an undergraduate student. The examples of code below was extracted from assignments and projects that have been completed as part of undergraduate coursework. 
+Welcome to my portfio showcasing python code that I have written during my time as an undergraduate student. The examples of code below was extracted from assignments and projects that have been completed as part of coursework. 
 
 **BoxPlots**
 
