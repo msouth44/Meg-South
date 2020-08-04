@@ -1,6 +1,6 @@
 # Meg South's Portfolio
 
-Welcome to my portfio showcasing python code that I have written during my time as a student. The examples of code below were extracted from assignments and projects that have been completed as part of undergraduate coursework. 
+Welcome to my portfolio showcasing python code that I have written during my time as a student. The examples of code below were extracted from assignments and projects that have been completed as part of undergraduate coursework. 
 
 **Box Plots**
 
@@ -12,7 +12,7 @@ Here is an example of [code that I wrote to create a for loop that would convert
 
 **Picking out Specific Data**
 
-Here is an example of [code that I wrote to find the first women to win a nobel prize](first_woman_nobel.md) within a dataframe containing the winners from 1901-2016. Fun fact, turns out it was Marie Curie in 1903 for the Nobel Prize in Physics. This was part of a task in a project called "A Visual History of Nobel Prize Winners" found on DataCamp.
+Here is an example of [code that I wrote to find the first women to win a Nobel Prize](first_woman_nobel.md) within a dataframe containing the winners from 1901-2016. Fun fact, turns out it was Marie Curie in 1903 for the Nobel Prize in Physics. This was part of a task in a project called "A Visual History of Nobel Prize Winners" found on DataCamp.
 
 **Calculations & Scatterplots with Seaborn**
 
