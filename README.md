@@ -1,5 +1,5 @@
 # Meg South's Portfolio
-** My professional python coding portfolio **
+**My professional python coding portfolio**
 
 Here is an example of [code that I wrote to create a series of boxplots](boxplot.md). This was code that was written as part of an assignment.
 
@@ -12,7 +12,6 @@ Here is an example of [code that I wrote to figure out the ages of Nobel Prize w
 Here is an example of [code that I wrote to drop columns out of a dataframe](drop_columns.md) so that only relevant information was left behind. This was part of a task in a project called "The Hottest Topics in Machine Learning" found on DataCamp.
 
 Here is an example of [code that I wrote to create a wordcloud](wordcloud.md). This word cloud represents commonly found words in titles of research papers that were created during the NIPS (Neural Information Processing Systems) conference from 1987-2017. This was part of a task in a project called "The Hottest Topics in Machine Learning" found on DataCamp.
-
 
 Questions? Email me:
 [mg668344@dal.ca](mailto:mg668344@dal.ca)
