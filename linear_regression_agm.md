@@ -18,13 +18,13 @@ plt.ylabel('Gray Matter Volume')
 
 
 
-    Text(0, 0.5, 'Gray Matter Volume')
+    
 
 
 
 
 
 
-![png](linear_regression_agm_files/linear_regression_agm_2_1.png)
+![png](linear_regression_agm_2_1.png)
 
 
