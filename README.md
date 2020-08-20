@@ -14,11 +14,11 @@ This is a sample of the [linear regression](linear_regression_agm.md) that was d
 
 ***Sorting Particapnts into Age Categories***
 
-
 This is a sample of [how participants where sorted into age categories](bin_participants.md) in the Age and Gray Matter Project. 
 
+***Creating a New Data Frame to Showcase Age and Gray Matter Means***
 
-
+This is a sample of [how a data frame was created](new_dataframe_agm.md) to be used to compare gray matter means to the relationship that was seen in the linear regression in the Age and Gray Matter Project.
 
 
 
