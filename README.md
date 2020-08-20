@@ -12,6 +12,10 @@ Dataset Reference: OASIS: Cross-Sectional: Principal Investigators: D. Marcus, R
 
 This is a sample of the [linear regression](linear_regression_agm.md) that was done in the Age and Gray Matter Project. 
 
+***Sorting Particapnts into Age Categories***
+
+
+This is a sample of [how participants where sorted into age categories](bin_participants.md) in the Age and Gray Matter Project. 
 
 
 
