@@ -25,6 +25,6 @@ plt.ylabel('Gray Matter Volume')
 
 
 
-![png](linear_regression_agm_2_1.png)
+![png](age_gray_matter_volume_11_1.png)
 
 
