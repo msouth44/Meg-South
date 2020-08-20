@@ -172,7 +172,6 @@ df
     </tr>
   </tbody>
 </table>
-<p>425 rows × 9 columns</p>
 </div>
 
 
@@ -253,7 +252,6 @@ df[['age','gray_matter_vol']]
     </tr>
   </tbody>
 </table>
-<p>425 rows × 2 columns</p>
 </div>
 
 
@@ -296,7 +294,7 @@ plt.ylabel('Gray Matter Volume')
 
 
 
-    Text(0, 0.5, 'Gray Matter Volume')
+   
 
 
 
