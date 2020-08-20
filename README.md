@@ -13,14 +13,6 @@ Dataset Reference: OASIS: Cross-Sectional: Principal Investigators: D. Marcus, R
 This is a sample of the [linear regression](linear_regression_agm.md) that was done in the Age and Gray Matter Project. 
 
 
-**Box Plots**
-
-Here is an example of [code that I wrote to create a series of boxplots](boxplot.md) showing reaction time in a dataframe. This was code that was written as part of an assignment.
-
-**For Loops & Conversions**
-
-Here is an example of [code that I wrote to create a for loop that would convert reaction time to milliseconds](rt_for_loop.md). This was code that was written as part of an assignment.
-
 
 
 
