@@ -1,4 +1,4 @@
-# Meg South's Portfolio
+Portfolio
 
 Welcome to my portfolio showcasing python code that I have written during my time as a student. The examples of code below were extracted from assignments and projects that have been completed as part of undergraduate coursework. 
 
