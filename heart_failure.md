@@ -23,20 +23,7 @@ df
 
 
 
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -236,7 +223,7 @@ df
   </tbody>
 </table>
 <p>299 rows × 13 columns</p>
-</div>
+
 
 
 
@@ -274,20 +261,7 @@ df[['creatinine_phosphokinase','ejection_fraction']]
 
 
 
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -355,7 +329,7 @@ df[['creatinine_phosphokinase','ejection_fraction']]
   </tbody>
 </table>
 <p>299 rows × 2 columns</p>
-</div>
+
 
 
 
@@ -395,7 +369,7 @@ plt.show()
 
 
 
-![png](heart_failure_files/heart_failure_9_0.png)
+![png](heart_failure_9_0.png)
 
 
 
@@ -408,7 +382,7 @@ plt.show()
 
 
 
-![png](heart_failure_files/heart_failure_10_0.png)
+![png](heart_failure_10_0.png)
 
 
 
@@ -453,7 +427,7 @@ plt.show()
 
 
 
-![png](heart_failure_files/heart_failure_12_0.png)
+![png](heart_failure_12_0.png)
 
 
 
@@ -479,20 +453,7 @@ df[conditions[0]]
 
 
 
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -692,7 +653,7 @@ df[conditions[0]]
   </tbody>
 </table>
 <p>263 rows × 13 columns</p>
-</div>
+
 
 
 
@@ -726,6 +687,6 @@ for l in levels:
 
 
 
-![png](heart_failure_files/heart_failure_17_0.png)
+![png](heart_failure_17_0.png)
 
 
