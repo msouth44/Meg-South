@@ -22,27 +22,27 @@ df_flankers_simon[['rt']].plot(kind='box')
 
 
 
-![png](box_plot%20_files/box_plot%20_1_1.png)
+![png](box_plot%20_1_1.png)
 
 
 
 
 
 
-![png](box_plot%20_files/box_plot%20_1_2.png)
+![png](box_plot%20_1_2.png)
 
 
 
 
 
 
-![png](box_plot%20_files/box_plot%20_1_3.png)
+![png](box_plot%20_1_3.png)
 
 
 
 
 
 
-![png](box_plot%20_files/box_plot%20_1_4.png)
+![png](box_plot%20_1_4.png)
 
 
