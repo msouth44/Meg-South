@@ -31,6 +31,8 @@ This Sample showcases code that was used to create a [Seaborn scatter plot](age_
 These are demos that were created as part of NESC 3505 course work to help peers learn to code and tackle tasks within the cirriculum. My demos focused on the learning process and provide information on learning fundamentals such as notetaking and motivation. 
 
 This [demo](taking_notes.pdf) provides insight into how I as a student took notes from DataCamp and formated them into a [personal cheatsheet](matplotlib_notes.pdf).
+
+This [demo](motivation.pdf) summarizes a podcast and provides insight on how to stay motivated during the learning stages of coding. 
  
 
 
