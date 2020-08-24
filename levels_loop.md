@@ -10,20 +10,7 @@ df[conditions[0]]
 
 
 
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -223,7 +210,7 @@ df[conditions[0]]
   </tbody>
 </table>
 <p>263 rows × 13 columns</p>
-</div>
+
 
 
 
@@ -259,7 +246,7 @@ plt.show()
 
 
 
-![png](levels_loop_files/levels_loop_4_0.png)
+![png](levels_loop_4_0.png)
 
 
 
