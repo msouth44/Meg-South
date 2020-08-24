@@ -24,7 +24,9 @@ The original dataset version was collected by Tanvir Ahmad, Assia Munir, Sajjad 
 
 The current version of the dataset was elaborated by Davide Chicco (Krembil Research Institute, Toronto, Canada) and donated to the University of California Irvine Machine Learning Repository under the same Attribution 4.0 International (CC BY 4.0) copyright in January 2020. Davide Chicco can be reached at <davidechicco '@' davidechicco.it>
 
-This is a sample of [the descriptive statistics and histogram plot](seaborn_stats.md) that was done in the Heart Failure Clinical Records Project.
+This is a sample of code for [the descriptive statistics and histogram plot](seaborn_stats.md) that was done in the Heart Failure Clinical Records Project.
+
+This is a sample of code for [the for loop](levels_loop.md) thats was done in the Heart Failure Clinical Records Project.
 
 # NESC 3505 Assignments
 
