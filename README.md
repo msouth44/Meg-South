@@ -16,7 +16,13 @@ This is a sample of [how participants where sorted into age categories](bin_part
 
 This is a sample of [how a data frame was created](new_dataframe_agm.md) to be used to compare gray matter means to the relationship that was seen in the linear regression in the Age and Gray Matter Project.
 
+**Heart Failure Clinical Records**
 
+**NESC 3505 Assignments**
+
+**Miscellaneous**
+
+**Demos**
 
 
 
