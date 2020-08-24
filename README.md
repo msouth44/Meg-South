@@ -4,15 +4,12 @@ This was a project that I created to explore the relationship between how age af
 Dataset Reference: OASIS: Cross-Sectional: Principal Investigators: D. Marcus, R, Buckner, J, Csernansky J. Morris; P50 AG05681, P01 AG03991, P01 AG026276, R01 AG021910, P20 MH071616, U24 RR021382
 
 **Linear Regression** 
-
 This is a sample of the [linear regression](linear_regression_agm.md) that was done in the Age and Gray Matter Project. 
 
 **Sorting Particapnts into Age Categories**
-
 This is a sample of [how participants where sorted into age categories](bin_participants.md) in the Age and Gray Matter Project. 
 
 **Creating a New Data Frame to Showcase Age and Gray Matter Means**
-
 This is a sample of [how a data frame was created](new_dataframe_agm.md) to be used to compare gray matter means to the relationship that was seen in the linear regression in the Age and Gray Matter Project.
 
 # Heart Failure Clinical Records
@@ -24,8 +21,10 @@ The original dataset version was collected by Tanvir Ahmad, Assia Munir, Sajjad 
 
 The current version of the dataset was elaborated by Davide Chicco (Krembil Research Institute, Toronto, Canada) and donated to the University of California Irvine Machine Learning Repository under the same Attribution 4.0 International (CC BY 4.0) copyright in January 2020. Davide Chicco can be reached at <davidechicco '@' davidechicco.it>
 
+**Descriptive Statistics and Histogram Plot** 
 This is a sample of code for [the descriptive statistics and histogram plot](seaborn_stats.md) that was done in the Heart Failure Clinical Records Project.
 
+**Exploring Different Concentration Levels Using a For Loop** 
 This is a sample of code for [the for loop](levels_loop.md) thats was done in the Heart Failure Clinical Records Project.
 
 # NESC 3505 Assignments
