@@ -4,12 +4,15 @@ This was a project that I created to explore the relationship between how age af
 Dataset Reference: OASIS: Cross-Sectional: Principal Investigators: D. Marcus, R, Buckner, J, Csernansky J. Morris; P50 AG05681, P01 AG03991, P01 AG026276, R01 AG021910, P20 MH071616, U24 RR021382
 
 **Linear Regression** 
+
 This is a sample of the [linear regression](linear_regression_agm.md) that was done in the Age and Gray Matter Project. 
 
 **Sorting Particapnts into Age Categories**
+
 This is a sample of [how participants where sorted into age categories](bin_participants.md) in the Age and Gray Matter Project. 
 
 **Creating a New Data Frame to Showcase Age and Gray Matter Means**
+
 This is a sample of [how a data frame was created](new_dataframe_agm.md) to be used to compare gray matter means to the relationship that was seen in the linear regression in the Age and Gray Matter Project.
 
 # Heart Failure Clinical Records
@@ -22,9 +25,11 @@ The original dataset version was collected by Tanvir Ahmad, Assia Munir, Sajjad 
 The current version of the dataset was elaborated by Davide Chicco (Krembil Research Institute, Toronto, Canada) and donated to the University of California Irvine Machine Learning Repository under the same Attribution 4.0 International (CC BY 4.0) copyright in January 2020. Davide Chicco can be reached at <davidechicco '@' davidechicco.it>
 
 **Descriptive Statistics and Histogram Plot** 
+
 This is a sample of code for [the descriptive statistics and histogram plot](seaborn_stats.md) that was done in the Heart Failure Clinical Records Project.
 
 **Exploring Different Concentration Levels Using a For Loop** 
+
 This is a sample of code for [the for loop](levels_loop.md) thats was done in the Heart Failure Clinical Records Project.
 
 # NESC 3505 Assignments
@@ -37,11 +42,17 @@ This sample showcases code that was used to create a [wordcloud](wordcloud.md) t
 This Sample showcases code that was used to create a [Seaborn scatter plot](age_nobel_winners-3.md) that was done in the *A Visual History of Nobel Prize Winners* project found on DataCamp.
 
 # Demos
-These are demos that were created as part of NESC 3505 course work to help peers learn to code and tackle tasks within the cirriculum. My demos focused on the learning process and provide information on learning fundamentals such as notetaking and motivation. 
+These are demos that were created as part of NESC 3505 course work to help peers learn to code and tackle tasks within the cirriculum. My demos focused on the learning process and provide information on learning fundamentals such as note taking and motivation. 
+
+**Note Taking** 
 
 This [demo](taking_notes.pdf) provides insight into how I as a student took notes from DataCamp and formated them into a [personal cheatsheet](matplotlib_notes.pdf).
 
+**Motivation** 
+
 This [demo](motivation.pdf) summarizes a podcast and provides insight on how to stay motivated during the learning stages of coding. 
+
+**Tutorial: How to Download Markdown File Using safari and Fixing .png File Issues** 
 
 This [demo](downloading_markdown.pdf) is a tutorial on how to download markdown files from CoCal using Safari and fixing .png file issues. 
  
