@@ -1,12 +1,12 @@
 ```python
-# We start by creating an empty variable to append your converted values to. Don't change this line
+# Empty List
 rt_ms = []
 
-# Write your loop below:
+# For loop to convert rt into ms
 for x in np_rt :
     rt_ms.append(x * 1000)
 
-# The line below will allow you to check your results. Don't change it.
+
 print(rt_ms)
 ```
 
