@@ -32,8 +32,11 @@ This is a sample of code for [the descriptive statistics and histogram plot](sea
 
 This is a sample of code for [the for loop](levels_loop.md) thats was done in the Heart Failure Clinical Records Project.
 
-# NESC 3505 Assignments
+# NESC 3505 Coursework #
+These are samples of code that were used during NESC 3505 coursework.
+
 **Converting Reaction Time into Milliseconds Using a For Loop**
+
 This sample of code shows [how to use a for loop to convert reaction time into milliseconds](rt_for_loop.md) that was used in an assignment in NESC 3505
 
 # Miscellaneous
