@@ -18,6 +18,12 @@ This is a sample of [how a data frame was created](new_dataframe_agm.md) to be u
 # Heart Failure Clinical Records
 This was a project were I was interested in playing around and exploring the data without any specific goals. I was more interested in seeing how I could play around with code going off of knowledge that I have obtained though reading textbooks and research in anatomy and physiology. I started with seeing if there was a relationship between ejection fraction and creatinine phosphokinase levels as creatinine phosphokinase is a marker of muscle tissue damage. It was interesting to see that the data indicated that there was no relationship which lead me to just play around with the data. 
 
+This dataset was obtained through the UCI Machine Learning Repository.
+
+The original dataset version was collected by Tanvir Ahmad, Assia Munir, Sajjad Haider Bhatti, Muhammad Aftab, and Muhammad Ali Raza (Government College University, Faisalabad, Pakistan) and made available by them on FigShare under the Attribution 4.0 International (CC BY 4.0: freedom to share and adapt the material) copyright in July 2017. 
+
+The current version of the dataset was elaborated by Davide Chicco (Krembil Research Institute, Toronto, Canada) and donated to the University of California Irvine Machine Learning Repository under the same Attribution 4.0 International (CC BY 4.0) copyright in January 2020. Davide Chicco can be reached at <davidechicco '@' davidechicco.it>
+
 # NESC 3505 Assignments
 
 # Miscellaneous
