@@ -251,6 +251,4 @@ plt.show()
 
 
 
-```python
 
-```
