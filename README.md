@@ -34,7 +34,7 @@ This is a sample of code for [the for loop](levels_loop.md) thats was done in th
 
 # NESC 3505 Assignments
 **Converting Reaction Time into Milliseconds Using a For Loop**
-This sample of code shows [how to use a for loop to convert reaction time into milliseconds]() that was used in an assignment in NESC 3505
+This sample of code shows [how to use a for loop to convert reaction time into milliseconds](rt_for_loop.md) that was used in an assignment in NESC 3505
 
 # Miscellaneous
 These are samples that were created through projects done using DataCamp. These samples show other skills that have been obtained through NESC 3505 course work but do not directly tie into the course curriculm.
