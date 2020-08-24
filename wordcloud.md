@@ -18,6 +18,6 @@ wordcloud.to_image()
 
 
 
-![png](wordcloud_files/wordcloud_0_0.png)
+![png](wordcloud_0_0.png)
 
 
