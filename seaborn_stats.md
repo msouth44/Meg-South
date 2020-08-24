@@ -11,7 +11,7 @@ plt.show()
 
 
 
-![png](seaborn_stats_files/seaborn_stats_1_0.png)
+![png](seaborn_stats_1_0.png)
 
 
 
@@ -56,6 +56,6 @@ plt.show()
 
 
 
-![png](seaborn_stats_files/seaborn_stats_3_0.png)
+![png](seaborn_stats_3_0.png)
 
 
