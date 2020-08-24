@@ -1,4 +1,4 @@
-# Relationship Between Age and Year of Recieveing Nobel Prize Using Seaborn Scatter Plot#
+# Relationship Between Age and Year of Recieveing Nobel Prize Using Seaborn Scatter Plot #
 
 This sample of code showcases the use of seaborn to create a scatter plot. The trendline shows the relationship between age of the recipiant and the year they recieved their Nobel Prize. 
 
