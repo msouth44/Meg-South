@@ -96,6 +96,6 @@ df_ag_mean
     </tr>
   </tbody>
 </table>
-</div>
+
 
 
