@@ -1,4 +1,4 @@
-#Converting Reaction Time into Milliseconds Using a For Loop#
+# Converting Reaction Time into Milliseconds Using a For Loop #
 
 This sample of code shows how to use a for loop to convert reaction time into milliseconds
 
