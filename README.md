@@ -1,5 +1,4 @@
 # Age and Gray Matter 
-
 This was a project that I created to explore the relationship between how age affects the amount gray matter within the brain. This project uses  a dataset that was provided by the OASIS Database. The dataset contains data from 416 particpants (N=416), ages ranging from 18 to 96 years of age. The dataset uses male and female particapnts who have and have not been diagnosised with Alzheimers. [Here](age_gray_matter_volume.md) I've included the full project to showcase the workflow and steps taken from the beginning to the end of the project. Below are samples taken from the project that showcase some of the code used throughout. 
 
 Dataset Reference: OASIS: Cross-Sectional: Principal Investigators: D. Marcus, R, Buckner, J, Csernansky J. Morris; P50 AG05681, P01 AG03991, P01 AG026276, R01 AG021910, P20 MH071616, U24 RR021382
@@ -17,6 +16,7 @@ This is a sample of [how participants where sorted into age categories](bin_part
 This is a sample of [how a data frame was created](new_dataframe_agm.md) to be used to compare gray matter means to the relationship that was seen in the linear regression in the Age and Gray Matter Project.
 
 # Heart Failure Clinical Records
+This was a project were I was interested in playing around and exploring the data without any specific goals. I was more interested in seeing how I could play around with code going off of knowledge that I have obtained though reading textbooks and research in anatomy and physiology. I started with seeing if there was a relationship between ejection fraction and creatinine phosphokinase levels as creatinine phosphokinase is a marker of muscle tissue damage. It was interesting to see that the data indicated that there was no relationship which lead me to just play around with the data. 
 
 # NESC 3505 Assignments
 
