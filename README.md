@@ -4,7 +4,7 @@ This was a project that I created to explore the relationship between how age af
 
 Dataset Reference: OASIS: Cross-Sectional: Principal Investigators: D. Marcus, R, Buckner, J, Csernansky J. Morris; P50 AG05681, P01 AG03991, P01 AG026276, R01 AG021910, P20 MH071616, U24 RR021382
 
-**Linear Regression
+**Linear Regression 
 
 This is a sample of the [linear regression](linear_regression_agm.md) that was done in the Age and Gray Matter Project. 
 
