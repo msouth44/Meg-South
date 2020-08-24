@@ -49,3 +49,5 @@ This [demo](downloading_markdown.pdf) is a tutorial on how to download markdown 
 
 
 
+Questions? Email me:
+[mg668344@dal.ca](mailto:mg668344@dal.ca)
