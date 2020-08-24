@@ -33,6 +33,8 @@ These are demos that were created as part of NESC 3505 course work to help peers
 This [demo](taking_notes.pdf) provides insight into how I as a student took notes from DataCamp and formated them into a [personal cheatsheet](matplotlib_notes.pdf).
 
 This [demo](motivation.pdf) summarizes a podcast and provides insight on how to stay motivated during the learning stages of coding. 
+
+This [demo](downloading_markdown.pdf) is a tutorial on how to download markdown files from CoCal using Safari and fixing .png file issues. 
  
 
 
