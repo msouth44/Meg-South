@@ -16,13 +16,13 @@ sns.lmplot(x='year', y='age', data=nobel, lowess=True,
 
 
 
-    <seaborn.axisgrid.FacetGrid at 0x7f50923fccc0>
+  
 
 
 
 
 
 
-![png](age_nobel_winners_files/age_nobel_winners_1_1.png)
+![png](age_nobel_winners_1_1.png)
 
 
