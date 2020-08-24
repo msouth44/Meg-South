@@ -172,7 +172,7 @@ df
     </tr>
   </tbody>
 </table>
-</div>
+
 
 
 
@@ -252,7 +252,7 @@ df[['age','gray_matter_vol']]
     </tr>
   </tbody>
 </table>
-</div>
+
 
 
 
@@ -518,7 +518,7 @@ df_ag_mean
     </tr>
   </tbody>
 </table>
-</div>
+
 
 
 
@@ -527,6 +527,4 @@ df_ag_mean
 From looking at the gray matter volume means we can see that there is a steady decrease in volume as move from the younger categories to the older categories with the one excpetion  seen in the 95 < category. Through out the process of getting to the mean values, it was discovered that there is only one partcipant in the 95 < categories which throws off the linear relationship. The means support what was seen at the beginning in the linear regression plot. 
 
 
-```python
 
-```
