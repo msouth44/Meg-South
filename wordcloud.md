@@ -1,3 +1,7 @@
+**Wordcloud** 
+
+This sample shows code that was used to create a wordcloud that was done in the *The Hotetst Topics in Machine Learning* project found on DataCamp. The wordcloud represents the words that occur the most within titles of Journal articles written about the topic of machine learning. 
+
 ```python
 # Import the wordcloud library
 import wordcloud
