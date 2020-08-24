@@ -23,7 +23,8 @@ This is a sample of [how a data frame was created](new_dataframe_agm.md) to be u
 # Miscellaneous
 These are samples that were created through projects done using DataCamp. These samples show other skills that have been obtained through NESC 3505 course work but do not directly tie into the course curriculm.
 
-This sample showcases code that was used to create a [wordcloud](
+This sample showcases code that was used to create a [wordcloud](wordcloud.md) that was done in the *The Hotetst Topics in Machine Learning* project found on DataCamp.
+
 # Demos
 
 
