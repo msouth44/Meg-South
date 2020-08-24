@@ -25,6 +25,8 @@ These are samples that were created through projects done using DataCamp. These 
 
 This sample showcases code that was used to create a [wordcloud](wordcloud.md) that was done in the *The Hotetst Topics in Machine Learning* project found on DataCamp.
 
+This Sample shocases code that was used to create a [Seaborn plot scatter plot](age_nobel_winners-3.md) that was done in the *A Visual History of Nobel Prize Winners* project found on DataCamp.
+
 # Demos
 
 
