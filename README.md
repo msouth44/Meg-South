@@ -37,7 +37,11 @@ These are samples of code that were used during NESC 3505 coursework.
 
 **Converting Reaction Time into Milliseconds Using a For Loop**
 
-This sample of code shows [how to use a for loop to convert reaction time into milliseconds](rt_for_loop.md) that was used in an assignment in NESC 3505
+This sample of code shows [how to use a for loop to convert reaction time into milliseconds](rt_for_loop.md) that was used in an assignment in NESC 3505.
+
+**Converting Reaction Time into Milliseconds Using a For Loop**
+
+This sample of code shows [how a boxplot was created using data for reaction time](box_plot.md) that was used in an assignment in NESC 3505. 
 
 # Miscellaneous
 These are samples that were created through projects done using DataCamp. These samples show other skills that have been obtained through NESC 3505 course work but do not directly tie into the course curriculm.
