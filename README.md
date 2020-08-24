@@ -38,9 +38,11 @@ This is a sample of code for [the for loop](levels_loop.md) thats was done in th
 These are samples that were created through projects done using DataCamp. These samples show other skills that have been obtained through NESC 3505 course work but do not directly tie into the course curriculm.
 
 **Wordcloud** 
+
 This sample showcases code that was used to create a [wordcloud](wordcloud.md) that was done in the *The Hotetst Topics in Machine Learning* project found on DataCamp.
 
-**Relationship Between Age and Year of Recieveing Nobel Prize Using Seaborn Scatter Plot  ** 
+**Relationship Between Age and Year of Recieveing Nobel Prize Using Seaborn Scatter Plot** 
+
 This Sample showcases code that was used to create a [Seaborn scatter plot](age_nobel_winners-3.md) that was done in the *A Visual History of Nobel Prize Winners* project found on DataCamp.
 
 # Demos
