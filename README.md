@@ -28,7 +28,7 @@ The current version of the dataset was elaborated by Davide Chicco (Krembil Rese
 
 This is a sample of code for [the descriptive statistics and histogram plot](seaborn_stats.md) that was done in the Heart Failure Clinical Records Project.
 
-**Exploring Different Concentration Levels Using a For Loop** 
+**Boxplot of Reaction Time** 
 
 This is a sample of code for [the for loop](levels_loop.md) thats was done in the Heart Failure Clinical Records Project.
 
