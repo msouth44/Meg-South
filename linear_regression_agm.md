@@ -25,6 +25,6 @@ plt.ylabel('Gray Matter Volume')
 
 
 
-![png](age_gray_matter_volume_11_1.png)
+![png](age_gmv_11_1.png)
 
 
