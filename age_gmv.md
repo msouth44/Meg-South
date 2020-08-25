@@ -22,20 +22,7 @@ df
 
 
 
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -187,7 +174,7 @@ df
   </tbody>
 </table>
 <p>425 rows × 9 columns</p>
-</div>
+
 
 
 
@@ -201,20 +188,7 @@ df[['age','gray_matter_vol']]
 
 
 
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -282,7 +256,7 @@ df[['age','gray_matter_vol']]
   </tbody>
 </table>
 <p>425 rows × 2 columns</p>
-</div>
+
 
 
 
@@ -324,14 +298,14 @@ plt.ylabel('Gray Matter Volume')
 
 
 
-    Text(0, 0.5, 'Gray Matter Volume')
+ 
 
 
 
 
 
 
-![png](age_gmv_files/age_gmv_11_1.png)
+![png](age_gmv_11_1.png)
 
 
 
@@ -400,20 +374,7 @@ df_ag_mean
 
 
 
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -480,7 +441,7 @@ df_ag_mean
     </tr>
   </tbody>
 </table>
-</div>
+
 
 
 
@@ -488,7 +449,3 @@ df_ag_mean
 
 From looking at the gray matter volume means we can see that there is a steady decrease in volume as move from the younger categories to the older categories with the one excpetion  seen in the 95 < category. Through out the process of getting to the mean values, it was discovered that there is only one partcipant in the 95 < categories which throws off the linear relationship. The means support what was seen at the beginning in the linear regression plot. 
 
-
-```python
-
-```
