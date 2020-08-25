@@ -1,6 +1,6 @@
 ## Creating a new data frame to showcase means
 
-This sample shows the code used to create a new data frame that shows the mean age and gray matter volume of the age categories. This code builds of previous code that was used to group participants together into age categories and find the mean values within those categories. This data frame was created to allow for the comparison of the gray matter volume means to the linear regression done at the beginning of this project to confirm the relationship that was seen in the data. 
+This sample shows the code used to create a new data frame that shows the mean age and gray matter volume of the age categories. This code builds off previous code that was used to group participants together into age categories and find the mean values within those categories. This data frame was created to allow for the comparison of the gray matter volume means to the linear regression done at the beginning of this project to confirm the relationship that was seen in the data. 
 
 
 ```python
