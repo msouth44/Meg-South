@@ -9,7 +9,7 @@ This is a sample of the [linear regression](linear_regression_agm.md) that was d
 
 **Sorting Particapnts into Age Categories**
 
-This is a sample of [how participants where sorted into age categories](bin_participants.md) in the Age and Gray Matter Project. 
+This is a sample of [how participants where sorted into age categories](age_cat.md) in the Age and Gray Matter Project. 
 
 **Creating a New Data Frame to Showcase Age and Gray Matter Means**
 
